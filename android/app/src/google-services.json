@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "297322135907",
+    "project_id": "lets-ride-restaurant",
+    "storage_bucket": "lets-ride-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297322135907:android:bb6f5b0cbdca92d1f05356",
+        "android_client_info": {
+          "package_name": "com.letsride.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297322135907-6jbcitaprveeklgk81kplco44j46ijqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.letsride.restaurant",
+            "certificate_hash": "e924e6b132fc9fa9d5c1bd2f563ece46d1c4fb7c"
+          }
+        },
+        {
+          "client_id": "297322135907-d7nibeg7ohtlg468dldq8is090qva44j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARZGymm6vMwPpyYXCb9toMVhlsekNFA2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297322135907-d7nibeg7ohtlg468dldq8is090qva44j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
